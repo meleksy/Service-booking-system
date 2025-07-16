@@ -1,0 +1,4 @@
+room_id,name,capacity,usage_cost_per_hour,idle_cost_per_hour
+1,Room_1,30,10,5
+2,Room_2,25,12,8
+3,Room_3,25,15,10

@@ -1,0 +1,7 @@
+{
+  "name": "cplex_test",
+  "description": "Small test instance with 5 courses, 3 rooms, 2 instructors. Instance matching CPLEX test data",
+  "time_horizon": 5,
+  "created_date": "2025-01-24",
+  "difficulty": "easy"
+}
