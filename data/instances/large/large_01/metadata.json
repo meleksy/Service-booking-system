@@ -1,0 +1,7 @@
+{
+  "name": "large_01",
+  "description": "Large test instance with 30 courses, 15 rooms, 10 instructors, 20 time slots",
+  "time_horizon": 20,
+  "created_date": "2025-01-24",
+  "difficulty": "hard"
+}
