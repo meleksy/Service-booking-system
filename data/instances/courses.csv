@@ -1,0 +1,13 @@
+course_id,name,duration,price_per_participant,max_participants
+1,Beginner Yoga,2,45.0,20
+2,Advanced Yoga,2,65.0,15
+3,Power Pilates,1,75.0,12
+4,Mat Pilates,1,55.0,18
+5,HIIT Cardio,1,50.0,25
+6,Dance Cardio,1,40.0,22
+7,Strength Training,2,70.0,14
+8,CrossFit,2,85.0,10
+9,Meditation,1,35.0,30
+10,Stretching,1,30.0,25
+11,Martial Arts,2,80.0,16
+12,Swimming,1,60.0,12
