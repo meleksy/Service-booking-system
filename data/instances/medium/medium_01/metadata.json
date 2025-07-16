@@ -1,0 +1,8 @@
+{
+  "name": "medium_01",
+  "description": "Medium test instance with 12 courses, 6 rooms, 5 instructors",
+  "time_horizon": 20,
+  "created_date": "2025-01-15",
+  "difficulty": "medium",
+  "updated_date": "2025-01-24"
+}

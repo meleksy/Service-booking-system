@@ -1,0 +1,7 @@
+room_id,name,capacity,usage_cost_per_hour,idle_cost_per_hour
+1,Main Studio,25,45.0,8.0
+2,Pilates Room,15,30.0,5.0
+3,Cardio Zone,30,50.0,10.0
+4,Strength Area,18,40.0,7.0
+5,Quiet Room,35,25.0,4.0
+6,Pool Area,15,60.0,12.0
