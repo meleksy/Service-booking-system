@@ -1,0 +1,61 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# GUI framework
+tkinter  # Usually included with Python, but listed for completeness
+
+# Database
+sqlite3  # Included with Python
+
+# Data processing and analysis
+json  # Included with Python
+csv   # Included with Python
+pathlib  # Included with Python
+
+# Algorithm and optimization
+random  # Included with Python
+math    # Included with Python
+time    # Included with Python
+threading  # Included with Python
+queue   # Included with Python
+
+# File handling and system
+os      # Included with Python
+sys     # Included with Python
+glob    # Included with Python
+tempfile  # Included with Python
+webbrowser  # Included with Python
+
+# Date and time
+datetime  # Included with Python
+
+# Logging
+logging  # Included with Python
+
+# Type hints
+typing  # Included with Python
+
+# Collections
+collections  # Included with Python
+itertools   # Included with Python
+
+# Statistics
+statistics  # Included with Python
+
+# Copy operations
+copy  # Included with Python
+
+# Abstract base classes
+abc  # Included with Python
+
+# Data classes
+dataclasses  # Included with Python (Python 3.7+)
+
+# Argument parsing
+argparse  # Included with Python
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
