@@ -1,0 +1,2544 @@
+{
+  "batch_info": {
+    "timestamp": "2025-06-22T06:23:02.487808",
+    "instances_pattern": "cplex_test",
+    "algorithms_pattern": "all",
+    "runs_per_combination": 3,
+    "total_experiments": 105
+  },
+  "results_summary": {
+    "successful_runs": 102,
+    "failed_runs": 3,
+    "unique_instances": 1,
+    "unique_algorithms": 35
+  },
+  "detailed_results": [
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ProfitDensity_Cheapest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.0032939910888671875,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ProfitDensity_Cheapest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0022110939025878906,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ProfitDensity_Cheapest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.0024890899658203125,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_HighestPrice_EarliestTime",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.002214193344116211,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_HighestPrice_EarliestTime",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.002323150634765625,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_HighestPrice_EarliestTime",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.0020678043365478516,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ShortestFirst_BestFit",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.04408407211303711,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4385.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 85.0,
+        "koszt_niewykorzystania": 65.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4385.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ShortestFirst_BestFit",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.022140026092529297,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4385.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 85.0,
+        "koszt_niewykorzystania": 65.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4385.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ShortestFirst_BestFit",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.002222776412963867,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4385.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 85.0,
+        "koszt_niewykorzystania": 65.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4385.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_MostConstrained_Random",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.003980159759521484,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_MostConstrained_Random",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0030639171600341797,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_MostConstrained_Random",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.0053141117095947266,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_BusinessOptimal",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.002930879592895508,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_BusinessOptimal",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0024802684783935547,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_BusinessOptimal",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.002552032470703125,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_Balanced",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.0025632381439208984,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_Balanced",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.002471923828125,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_Balanced",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.0023660659790039062,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 74.0,
+        "koszt_niewykorzystania": 74.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4387.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_FastFill",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.0020170211791992188,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4385.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 85.0,
+        "koszt_niewykorzystania": 65.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4385.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_FastFill",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0020291805267333984,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4385.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 85.0,
+        "koszt_niewykorzystania": 65.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4385.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_FastFill",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.002179861068725586,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4385.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 85.0,
+        "koszt_niewykorzystania": 65.0,
+        "koszt_instruktorow": 240.0,
+        "funkcja": 4385.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_SmartConstrained",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.0026922225952148438,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_SmartConstrained",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.002733945846557617,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_SmartConstrained",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.002851724624633789,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_AllRandom",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.0027701854705810547,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4353.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 86.0,
+        "koszt_niewykorzystania": 66.0,
+        "koszt_instruktorow": 270.0,
+        "funkcja": 4353.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_AllRandom",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0024690628051757812,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4353.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 86.0,
+        "koszt_niewykorzystania": 66.0,
+        "koszt_instruktorow": 270.0,
+        "funkcja": 4353.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_AllRandom",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.0023920536041259766,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4353.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 86.0,
+        "koszt_niewykorzystania": 66.0,
+        "koszt_instruktorow": 270.0,
+        "funkcja": 4353.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ExpensiveTest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.002521038055419922,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4308.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6,
+        "instructor_utilization": 0.9,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 101.0,
+        "koszt_niewykorzystania": 56.0,
+        "koszt_instruktorow": 310.0,
+        "funkcja": 4308.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ExpensiveTest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0022580623626708984,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4308.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6,
+        "instructor_utilization": 0.9,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 101.0,
+        "koszt_niewykorzystania": 56.0,
+        "koszt_instruktorow": 310.0,
+        "funkcja": 4308.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "Greedy_ExpensiveTest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.002196073532104492,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4308.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6,
+        "instructor_utilization": 0.9,
+        "courses_scheduled": 0.8
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 101.0,
+        "koszt_niewykorzystania": 56.0,
+        "koszt_instruktorow": 310.0,
+        "funkcja": 4308.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Tournament_CourseBased",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.14569091796875,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Tournament_CourseBased",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.458617925643921,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Tournament_CourseBased",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.1346869468688965,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Roulette_Uniform",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.392125129699707,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Roulette_Uniform",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.1651837825775146,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Roulette_Uniform",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.49183988571167,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_HighDiversity",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.1049509048461914,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_HighDiversity",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.3536791801452637,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_HighDiversity",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.1503379344940186,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Elitist_LowMutation",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.007802963256836,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Elitist_LowMutation",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.099074125289917,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Elitist_LowMutation",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.991628885269165,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Fast",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.835568904876709,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Fast",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.6358420848846436,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Fast",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.6673061847686768,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Conservative",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.3586885929107666,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Conservative",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.1230978965759277,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Conservative",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.4317140579223633,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Hybrid",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.5450639724731445,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Hybrid",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.7273061275482178,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Hybrid",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.775162935256958,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Intensive",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 2.0737099647521973,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Intensive",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.8674421310424805,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Intensive",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 2.162794828414917,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Exploratory",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.9307670593261719,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Exploratory",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.009577989578247,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_Exploratory",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.8351123332977295,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_FastBalanced",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.49643683433532715,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_FastBalanced",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.5305802822113037,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 110.0,
+        "koszt_niewykorzystania": 50.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "GA_FastBalanced",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.7463557720184326,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 4775.0,
+        "koszt_uzytkowania": 115.0,
+        "koszt_niewykorzystania": 45.0,
+        "koszt_instruktorow": 350.0,
+        "funkcja": 4265.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Classic_Exponential",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.3703250885009766,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Classic_Exponential",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.3956019878387451,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Classic_Exponential",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.3686814308166504,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Fast_Aggressive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.500053882598877,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4387.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Fast_Aggressive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.4715390205383301,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4490.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 3,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.26666666666666666,
+        "instructor_utilization": 0.4,
+        "courses_scheduled": 0.6
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Fast_Aggressive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.46688103675842285,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4491.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 3,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.26666666666666666,
+        "instructor_utilization": 0.4,
+        "courses_scheduled": 0.6
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Adaptive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 2.2059929370880127,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Adaptive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 2.198245048522949,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_Adaptive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 2.2343738079071045,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_WithRestarts",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 1.5407359600067139,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4344.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_WithRestarts",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 1.6229469776153564,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_WithRestarts",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 1.5383658409118652,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_HighTemp_Exploration",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 2.691702127456665,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_HighTemp_Exploration",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 2.6959190368652344,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "SA_HighTemp_Exploration",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 2.7053120136260986,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Classic",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 9.550729036331177,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Classic",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 8.436704158782959,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Classic",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 8.701238632202148,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Adaptive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 13.40807294845581,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Adaptive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 14.323256254196167,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Adaptive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 12.251203060150146,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Fast",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.0,
+      "success": false,
+      "error_message": "'TabuSearchAlgorithm' object has no attribute '_diversify'",
+      "objective_value": null,
+      "is_feasible": false,
+      "num_violations": Infinity
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Fast",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.0,
+      "success": false,
+      "error_message": "'TabuSearchAlgorithm' object has no attribute '_diversify'",
+      "objective_value": null,
+      "is_feasible": false,
+      "num_violations": Infinity
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Fast",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.0,
+      "success": false,
+      "error_message": "'TabuSearchAlgorithm' object has no attribute '_diversify'",
+      "objective_value": null,
+      "is_feasible": false,
+      "num_violations": Infinity
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Elite",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 10.729827165603638,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Elite",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 10.486414909362793,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4389.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Elite",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 8.27126693725586,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4432.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 3,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4,
+        "instructor_utilization": 0.6,
+        "courses_scheduled": 0.6
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Aggressive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 16.302730083465576,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Aggressive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 16.29922103881836,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "TS_Aggressive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 16.2452449798584,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Basic",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 14.366526126861572,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 3,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.6
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Basic",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 14.847675085067749,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4523.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 3,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.26666666666666666,
+        "instructor_utilization": 0.4,
+        "courses_scheduled": 0.6
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Basic",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 24.952386140823364,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4354.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_General",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 327.5020308494568,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_General",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 327.19533801078796,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_General",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 332.35595202445984,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4399.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Skewed",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 30.883514881134033,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4354.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Skewed",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 31.94150185585022,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4388.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Skewed",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 30.348838090896606,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4390.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.4666666666666667,
+        "instructor_utilization": 0.7,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Fast",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 19.977336883544922,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4354.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Fast",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 12.122166156768799,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4523.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 3,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.26666666666666666,
+        "instructor_utilization": 0.4,
+        "courses_scheduled": 0.6
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Fast",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 20.421236991882324,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4354.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 4,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.5333333333333333,
+        "instructor_utilization": 0.8,
+        "courses_scheduled": 0.8
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Intensive",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 76.50022006034851,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Intensive",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 77.75556874275208,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    },
+    {
+      "instance_name": "cplex_test",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/small/cplex_test",
+      "algorithm_name": "VNS_Intensive",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 74.65669083595276,
+      "success": true,
+      "error_message": null,
+      "objective_value": 4264.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "utilization": {
+        "room_utilization": 0.6666666666666666,
+        "instructor_utilization": 1.0,
+        "courses_scheduled": 1.0
+      }
+    }
+  ],
+  "statistics": {
+    "best_objective": 4625.0,
+    "worst_objective": 4263.0,
+    "average_objective": 4473.597701149425,
+    "feasible_solutions": 46,
+    "average_execution_time": 18.349839714751848,
+    "best_solution": {
+      "algorithm": "Greedy_ProfitDensity_Cheapest",
+      "instance": "cplex_test",
+      "objective_value": 4625.0,
+      "is_feasible": false,
+      "execution_time": 0.005310773849487305,
+      "detailed_breakdown": {},
+      "scheduled_courses": 1,
+      "total_courses": 5
+    },
+    "best_feasible_solution": {
+      "algorithm": "Greedy_MostConstrained_Random",
+      "instance": "cplex_test",
+      "objective_value": 4265.0,
+      "is_feasible": true,
+      "execution_time": 0.003980159759521484,
+      "detailed_breakdown": {},
+      "scheduled_courses": 5,
+      "total_courses": 5,
+      "gap_to_best_overall": 360.0
+    }
+  }
+}

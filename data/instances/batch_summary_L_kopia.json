@@ -1,0 +1,2892 @@
+{
+  "batch_info": {
+    "timestamp": "2025-06-30T15:11:34.686588",
+    "instances_pattern": "large_01",
+    "algorithms_pattern": "all",
+    "runs_per_combination": 3,
+    "total_experiments": 105
+  },
+  "results_summary": {
+    "successful_runs": 105,
+    "failed_runs": 0,
+    "unique_instances": 1,
+    "unique_algorithms": 35
+  },
+  "detailed_results": [
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ProfitDensity_Cheapest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.34334897994995117,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2820.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 6090.0,
+        "funkcja": 63263.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ProfitDensity_Cheapest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.3251631259918213,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2820.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 6090.0,
+        "funkcja": 63263.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ProfitDensity_Cheapest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.3280770778656006,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2820.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 6090.0,
+        "funkcja": 63263.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_HighestPrice_EarliestTime",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.2163069248199463,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63584.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5790.0,
+        "funkcja": 63584.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_HighestPrice_EarliestTime",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.21021318435668945,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63584.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5790.0,
+        "funkcja": 63584.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_HighestPrice_EarliestTime",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.2117917537689209,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63584.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5790.0,
+        "funkcja": 63584.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ShortestFirst_BestFit",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.33911585807800293,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63211.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2790.0,
+        "koszt_niewykorzystania": 5964.0,
+        "koszt_instruktorow": 6160.0,
+        "funkcja": 63211.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ShortestFirst_BestFit",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.3397502899169922,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63211.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2790.0,
+        "koszt_niewykorzystania": 5964.0,
+        "koszt_instruktorow": 6160.0,
+        "funkcja": 63211.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ShortestFirst_BestFit",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.33719778060913086,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63211.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2790.0,
+        "koszt_niewykorzystania": 5964.0,
+        "koszt_instruktorow": 6160.0,
+        "funkcja": 63211.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_MostConstrained_Random",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.32331180572509766,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63644.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5730.0,
+        "funkcja": 63644.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_MostConstrained_Random",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.32412099838256836,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63644.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5730.0,
+        "funkcja": 63644.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_MostConstrained_Random",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.32505083084106445,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63644.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5730.0,
+        "funkcja": 63644.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_BusinessOptimal",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.3238968849182129,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2820.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 6090.0,
+        "funkcja": 63263.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_BusinessOptimal",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.3227992057800293,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2820.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 6090.0,
+        "funkcja": 63263.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_BusinessOptimal",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.32509493827819824,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63263.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2820.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 6090.0,
+        "funkcja": 63263.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_Balanced",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.33918213844299316,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63344.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2835.0,
+        "koszt_niewykorzystania": 5946.0,
+        "koszt_instruktorow": 6000.0,
+        "funkcja": 63344.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_Balanced",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.34232497215270996,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63344.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2835.0,
+        "koszt_niewykorzystania": 5946.0,
+        "koszt_instruktorow": 6000.0,
+        "funkcja": 63344.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_Balanced",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.33522725105285645,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63344.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2835.0,
+        "koszt_niewykorzystania": 5946.0,
+        "koszt_instruktorow": 6000.0,
+        "funkcja": 63344.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_FastFill",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.21693205833435059,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63135.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2800.0,
+        "koszt_niewykorzystania": 5960.0,
+        "koszt_instruktorow": 6230.0,
+        "funkcja": 63135.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_FastFill",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.21398210525512695,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63135.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2800.0,
+        "koszt_niewykorzystania": 5960.0,
+        "koszt_instruktorow": 6230.0,
+        "funkcja": 63135.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_FastFill",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.21457386016845703,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63135.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2800.0,
+        "koszt_niewykorzystania": 5960.0,
+        "koszt_instruktorow": 6230.0,
+        "funkcja": 63135.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_SmartConstrained",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.3258850574493408,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63644.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5730.0,
+        "funkcja": 63644.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_SmartConstrained",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.32708001136779785,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63644.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5730.0,
+        "funkcja": 63644.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_SmartConstrained",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.3234081268310547,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63644.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2785.0,
+        "koszt_niewykorzystania": 5966.0,
+        "koszt_instruktorow": 5730.0,
+        "funkcja": 63644.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_AllRandom",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.3534510135650635,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63396.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2815.0,
+        "koszt_niewykorzystania": 5954.0,
+        "koszt_instruktorow": 5960.0,
+        "funkcja": 63396.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_AllRandom",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.35279417037963867,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63396.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2815.0,
+        "koszt_niewykorzystania": 5954.0,
+        "koszt_instruktorow": 5960.0,
+        "funkcja": 63396.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_AllRandom",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.3565061092376709,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63396.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2815.0,
+        "koszt_niewykorzystania": 5954.0,
+        "koszt_instruktorow": 5960.0,
+        "funkcja": 63396.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ExpensiveTest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 1,
+      "execution_time": 0.35936903953552246,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63693.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2720.0,
+        "koszt_niewykorzystania": 5992.0,
+        "koszt_instruktorow": 5720.0,
+        "funkcja": 63693.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ExpensiveTest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 2,
+      "execution_time": 0.35582613945007324,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63693.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2720.0,
+        "koszt_niewykorzystania": 5992.0,
+        "koszt_instruktorow": 5720.0,
+        "funkcja": 63693.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "Greedy_ExpensiveTest",
+      "algorithm_class": "GreedyAlgorithm",
+      "run_id": 3,
+      "execution_time": 0.3588399887084961,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63693.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2720.0,
+        "koszt_niewykorzystania": 5992.0,
+        "koszt_instruktorow": 5720.0,
+        "funkcja": 63693.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Tournament_CourseBased",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 91.25846791267395,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62988.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3245.0,
+        "koszt_niewykorzystania": 5782.0,
+        "koszt_instruktorow": 6110.0,
+        "funkcja": 62988.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Tournament_CourseBased",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 56.197059869766235,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62814.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3085.0,
+        "koszt_niewykorzystania": 5846.0,
+        "koszt_instruktorow": 6380.0,
+        "funkcja": 62814.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Tournament_CourseBased",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 60.03796887397766,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62953.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3120.0,
+        "koszt_niewykorzystania": 5832.0,
+        "koszt_instruktorow": 6220.0,
+        "funkcja": 62953.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Roulette_Uniform",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 62.0670428276062,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62870.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3125.0,
+        "koszt_niewykorzystania": 5830.0,
+        "koszt_instruktorow": 6300.0,
+        "funkcja": 62870.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Roulette_Uniform",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 87.30367922782898,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63060.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3125.0,
+        "koszt_niewykorzystania": 5830.0,
+        "koszt_instruktorow": 6110.0,
+        "funkcja": 63060.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Roulette_Uniform",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 54.00077199935913,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62635.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3200.0,
+        "koszt_niewykorzystania": 5800.0,
+        "koszt_instruktorow": 6490.0,
+        "funkcja": 62635.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_HighDiversity",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 68.55038118362427,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62816.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3165.0,
+        "koszt_niewykorzystania": 5814.0,
+        "koszt_instruktorow": 6330.0,
+        "funkcja": 62816.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_HighDiversity",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 60.73385190963745,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63038.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3095.0,
+        "koszt_niewykorzystania": 5842.0,
+        "koszt_instruktorow": 6150.0,
+        "funkcja": 63038.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_HighDiversity",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 53.33526277542114,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62755.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3150.0,
+        "koszt_niewykorzystania": 5820.0,
+        "koszt_instruktorow": 6400.0,
+        "funkcja": 62755.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Elitist_LowMutation",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 32.10017514228821,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62809.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3160.0,
+        "koszt_niewykorzystania": 5816.0,
+        "koszt_instruktorow": 6340.0,
+        "funkcja": 62809.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Elitist_LowMutation",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 27.932361125946045,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62749.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3110.0,
+        "koszt_niewykorzystania": 5836.0,
+        "koszt_instruktorow": 6430.0,
+        "funkcja": 62749.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Elitist_LowMutation",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 34.230576038360596,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62639.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3210.0,
+        "koszt_niewykorzystania": 5796.0,
+        "koszt_instruktorow": 6480.0,
+        "funkcja": 62639.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Fast",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 62.406301975250244,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62885.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3050.0,
+        "koszt_niewykorzystania": 5860.0,
+        "koszt_instruktorow": 6330.0,
+        "funkcja": 62885.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Fast",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 42.942702770233154,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62758.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3145.0,
+        "koszt_niewykorzystania": 5822.0,
+        "koszt_instruktorow": 6400.0,
+        "funkcja": 62758.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Fast",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 65.09917497634888,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62827.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3130.0,
+        "koszt_niewykorzystania": 5828.0,
+        "koszt_instruktorow": 6340.0,
+        "funkcja": 62827.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Conservative",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 56.61744928359985,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62763.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3120.0,
+        "koszt_niewykorzystania": 5832.0,
+        "koszt_instruktorow": 6410.0,
+        "funkcja": 62763.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Conservative",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 42.722678899765015,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62700.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3175.0,
+        "koszt_niewykorzystania": 5810.0,
+        "koszt_instruktorow": 6440.0,
+        "funkcja": 62700.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Conservative",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 128.78165197372437,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63125.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3300.0,
+        "koszt_niewykorzystania": 5760.0,
+        "koszt_instruktorow": 5940.0,
+        "funkcja": 63125.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Hybrid",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 83.48393440246582,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62827.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3130.0,
+        "koszt_niewykorzystania": 5828.0,
+        "koszt_instruktorow": 6340.0,
+        "funkcja": 62827.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Hybrid",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 77.17783188819885,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62989.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3160.0,
+        "koszt_niewykorzystania": 5816.0,
+        "koszt_instruktorow": 6160.0,
+        "funkcja": 62989.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Hybrid",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 88.83035802841187,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62866.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3265.0,
+        "koszt_niewykorzystania": 5774.0,
+        "koszt_instruktorow": 6220.0,
+        "funkcja": 62866.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Intensive",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 137.29320096969604,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62981.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3190.0,
+        "koszt_niewykorzystania": 5804.0,
+        "koszt_instruktorow": 6150.0,
+        "funkcja": 62981.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Intensive",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 103.59318900108337,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62937.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2980.0,
+        "koszt_niewykorzystania": 5888.0,
+        "koszt_instruktorow": 6320.0,
+        "funkcja": 62937.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Intensive",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 119.99711084365845,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63149.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3160.0,
+        "koszt_niewykorzystania": 5816.0,
+        "koszt_instruktorow": 6000.0,
+        "funkcja": 63149.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Exploratory",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 56.395975828170776,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62826.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3215.0,
+        "koszt_niewykorzystania": 5794.0,
+        "koszt_instruktorow": 6290.0,
+        "funkcja": 62826.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Exploratory",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 92.46192812919617,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62683.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3270.0,
+        "koszt_niewykorzystania": 5772.0,
+        "koszt_instruktorow": 6400.0,
+        "funkcja": 62683.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_Exploratory",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 159.07390427589417,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62932.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3005.0,
+        "koszt_niewykorzystania": 5878.0,
+        "koszt_instruktorow": 6310.0,
+        "funkcja": 62932.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_FastBalanced",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 1,
+      "execution_time": 53.59751224517822,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62348.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3295.0,
+        "koszt_niewykorzystania": 5762.0,
+        "koszt_instruktorow": 6720.0,
+        "funkcja": 62348.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_FastBalanced",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 2,
+      "execution_time": 45.119049072265625,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62586.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3165.0,
+        "koszt_niewykorzystania": 5814.0,
+        "koszt_instruktorow": 6560.0,
+        "funkcja": 62586.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "GA_FastBalanced",
+      "algorithm_class": "GeneticAlgorithm",
+      "run_id": 3,
+      "execution_time": 30.932613849639893,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62450.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3175.0,
+        "koszt_niewykorzystania": 5810.0,
+        "koszt_instruktorow": 6690.0,
+        "funkcja": 62450.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Classic_Exponential",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 33.44463086128235,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62825.0,
+      "is_feasible": false,
+      "num_violations": 3,
+      "scheduled_courses": 27,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.17,
+        "instructor_utilization": 0.255,
+        "courses_scheduled": 0.9
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3270.0,
+        "koszt_niewykorzystania": 5700.0,
+        "koszt_instruktorow": 6330.0,
+        "funkcja": 62825.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Classic_Exponential",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 33.45685815811157,
+      "success": true,
+      "error_message": null,
+      "objective_value": 64386.0,
+      "is_feasible": false,
+      "num_violations": 3,
+      "scheduled_courses": 27,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.17,
+        "instructor_utilization": 0.255,
+        "courses_scheduled": 0.9
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2985.0,
+        "koszt_niewykorzystania": 5814.0,
+        "koszt_instruktorow": 4940.0,
+        "funkcja": 64386.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Classic_Exponential",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 33.30117988586426,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61935.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3890.0,
+        "koszt_niewykorzystania": 5500.0,
+        "koszt_instruktorow": 6800.0,
+        "funkcja": 61935.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Fast_Aggressive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 11.057837009429932,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61476.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4265.0,
+        "koszt_niewykorzystania": 5374.0,
+        "koszt_instruktorow": 7010.0,
+        "funkcja": 61476.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Fast_Aggressive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 11.158735036849976,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61219.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4310.0,
+        "koszt_niewykorzystania": 5356.0,
+        "koszt_instruktorow": 7240.0,
+        "funkcja": 61219.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Fast_Aggressive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 11.128662824630737,
+      "success": true,
+      "error_message": null,
+      "objective_value": 60812.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4505.0,
+        "koszt_niewykorzystania": 5278.0,
+        "koszt_instruktorow": 7530.0,
+        "funkcja": 60812.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Adaptive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 53.38017797470093,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63383.0,
+      "is_feasible": false,
+      "num_violations": 3,
+      "scheduled_courses": 27,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.17,
+        "instructor_utilization": 0.255,
+        "courses_scheduled": 0.9
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3790.0,
+        "koszt_niewykorzystania": 5492.0,
+        "koszt_instruktorow": 5460.0,
+        "funkcja": 63383.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Adaptive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 53.470197916030884,
+      "success": true,
+      "error_message": null,
+      "objective_value": 65213.0,
+      "is_feasible": false,
+      "num_violations": 5,
+      "scheduled_courses": 25,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.15,
+        "instructor_utilization": 0.225,
+        "courses_scheduled": 0.8333333333333334
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2520.0,
+        "koszt_niewykorzystania": 5952.0,
+        "koszt_instruktorow": 4440.0,
+        "funkcja": 65213.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_Adaptive",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 53.34070897102356,
+      "success": true,
+      "error_message": null,
+      "objective_value": 65043.0,
+      "is_feasible": false,
+      "num_violations": 5,
+      "scheduled_courses": 25,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.15,
+        "instructor_utilization": 0.225,
+        "courses_scheduled": 0.8333333333333334
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2620.0,
+        "koszt_niewykorzystania": 5912.0,
+        "koszt_instruktorow": 4550.0,
+        "funkcja": 65043.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_WithRestarts",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 28.98778772354126,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63567.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3120.0,
+        "koszt_niewykorzystania": 5808.0,
+        "koszt_instruktorow": 5630.0,
+        "funkcja": 63567.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_WithRestarts",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 34.120940923690796,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63112.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3355.0,
+        "koszt_niewykorzystania": 5738.0,
+        "koszt_instruktorow": 5920.0,
+        "funkcja": 63112.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_WithRestarts",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 38.420711040496826,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63052.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3405.0,
+        "koszt_niewykorzystania": 5718.0,
+        "koszt_instruktorow": 5950.0,
+        "funkcja": 63052.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_HighTemp_Exploration",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 1,
+      "execution_time": 66.41531109809875,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61061.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4290.0,
+        "koszt_niewykorzystania": 5364.0,
+        "koszt_instruktorow": 7410.0,
+        "funkcja": 61061.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_HighTemp_Exploration",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 2,
+      "execution_time": 66.57751989364624,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61378.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4095.0,
+        "koszt_niewykorzystania": 5442.0,
+        "koszt_instruktorow": 7210.0,
+        "funkcja": 61378.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "SA_HighTemp_Exploration",
+      "algorithm_class": "SimulatedAnnealingAlgorithm",
+      "run_id": 3,
+      "execution_time": 304.1403639316559,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61144.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4335.0,
+        "koszt_niewykorzystania": 5346.0,
+        "koszt_instruktorow": 7300.0,
+        "funkcja": 61144.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Classic",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 1352.7130761146545,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62309.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3750.0,
+        "koszt_niewykorzystania": 5556.0,
+        "koszt_instruktorow": 6510.0,
+        "funkcja": 62309.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Classic",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 302.03735423088074,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63154.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2925.0,
+        "koszt_niewykorzystania": 5886.0,
+        "koszt_instruktorow": 6160.0,
+        "funkcja": 63154.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Classic",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 304.9286708831787,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62800.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2865.0,
+        "koszt_niewykorzystania": 5910.0,
+        "koszt_instruktorow": 6550.0,
+        "funkcja": 62800.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Adaptive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 306.87093901634216,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63022.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3145.0,
+        "koszt_niewykorzystania": 5798.0,
+        "koszt_instruktorow": 6160.0,
+        "funkcja": 63022.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Adaptive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 1136.0876338481903,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62552.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3445.0,
+        "koszt_niewykorzystania": 5678.0,
+        "koszt_instruktorow": 6450.0,
+        "funkcja": 62552.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Adaptive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 1057.975312948227,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61730.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3765.0,
+        "koszt_niewykorzystania": 5550.0,
+        "koszt_instruktorow": 7080.0,
+        "funkcja": 61730.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Fast",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 1302.153562784195,
+      "success": true,
+      "error_message": null,
+      "objective_value": 60979.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3910.0,
+        "koszt_niewykorzystania": 5516.0,
+        "koszt_instruktorow": 7720.0,
+        "funkcja": 60979.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Fast",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 619.0714337825775,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61016.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4015.0,
+        "koszt_niewykorzystania": 5474.0,
+        "koszt_instruktorow": 7620.0,
+        "funkcja": 61016.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Fast",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 301.2429015636444,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61981.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3780.0,
+        "koszt_niewykorzystania": 5544.0,
+        "koszt_instruktorow": 6820.0,
+        "funkcja": 61981.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Elite",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 649.3622949123383,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61217.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4280.0,
+        "koszt_niewykorzystania": 5368.0,
+        "koszt_instruktorow": 7260.0,
+        "funkcja": 61217.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Elite",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 307.48678827285767,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63471.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 28,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.18333333333333332,
+        "instructor_utilization": 0.275,
+        "courses_scheduled": 0.9333333333333333
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2890.0,
+        "koszt_niewykorzystania": 5884.0,
+        "koszt_instruktorow": 5880.0,
+        "funkcja": 63471.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Elite",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 306.948637008667,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62743.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3010.0,
+        "koszt_niewykorzystania": 5852.0,
+        "koszt_instruktorow": 6520.0,
+        "funkcja": 62743.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Aggressive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 1,
+      "execution_time": 308.00699615478516,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62402.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3295.0,
+        "koszt_niewykorzystania": 5738.0,
+        "koszt_instruktorow": 6690.0,
+        "funkcja": 62402.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Aggressive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 2,
+      "execution_time": 948.2903847694397,
+      "success": true,
+      "error_message": null,
+      "objective_value": 60982.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4505.0,
+        "koszt_niewykorzystania": 5278.0,
+        "koszt_instruktorow": 7360.0,
+        "funkcja": 60982.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "TS_Aggressive",
+      "algorithm_class": "TabuSearchAlgorithm",
+      "run_id": 3,
+      "execution_time": 301.85237193107605,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62728.0,
+      "is_feasible": false,
+      "num_violations": 2,
+      "scheduled_courses": 28,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.18333333333333332,
+        "instructor_utilization": 0.275,
+        "courses_scheduled": 0.9333333333333333
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3195.0,
+        "koszt_niewykorzystania": 5762.0,
+        "koszt_instruktorow": 6440.0,
+        "funkcja": 62728.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Basic",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 724.9827358722687,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61125.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4700.0,
+        "koszt_niewykorzystania": 5200.0,
+        "koszt_instruktorow": 7100.0,
+        "funkcja": 61125.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Basic",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 450.42016887664795,
+      "success": true,
+      "error_message": null,
+      "objective_value": 62655.0,
+      "is_feasible": false,
+      "num_violations": 6,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.18333333333333332,
+        "instructor_utilization": 0.275,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3250.0,
+        "koszt_niewykorzystania": 5740.0,
+        "koszt_instruktorow": 6480.0,
+        "funkcja": 62655.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Basic",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 481.85912895202637,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61022.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4655.0,
+        "koszt_niewykorzystania": 5218.0,
+        "koszt_instruktorow": 7230.0,
+        "funkcja": 61022.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_General",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 14107.701980829239,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63873.0,
+      "is_feasible": false,
+      "num_violations": 10,
+      "scheduled_courses": 23,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.14,
+        "instructor_utilization": 0.21,
+        "courses_scheduled": 0.7666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3260.0,
+        "koszt_niewykorzystania": 5632.0,
+        "koszt_instruktorow": 5360.0,
+        "funkcja": 63873.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_General",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 1370.7048509120941,
+      "success": true,
+      "error_message": null,
+      "objective_value": 66828.0,
+      "is_feasible": false,
+      "num_violations": 16,
+      "scheduled_courses": 18,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.10333333333333333,
+        "instructor_utilization": 0.155,
+        "courses_scheduled": 0.6
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 1665.0,
+        "koszt_niewykorzystania": 6182.0,
+        "koszt_instruktorow": 3450.0,
+        "funkcja": 66828.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_General",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 1373.8942050933838,
+      "success": true,
+      "error_message": null,
+      "objective_value": 66654.0,
+      "is_feasible": false,
+      "num_violations": 15,
+      "scheduled_courses": 17,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.1,
+        "instructor_utilization": 0.15,
+        "courses_scheduled": 0.5666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2135.0,
+        "koszt_niewykorzystania": 5986.0,
+        "koszt_instruktorow": 3350.0,
+        "funkcja": 66654.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Skewed",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 474.50529193878174,
+      "success": true,
+      "error_message": null,
+      "objective_value": 60808.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4995.0,
+        "koszt_niewykorzystania": 5082.0,
+        "koszt_instruktorow": 7240.0,
+        "funkcja": 60808.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Skewed",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 474.4804902076721,
+      "success": true,
+      "error_message": null,
+      "objective_value": 60994.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4435.0,
+        "koszt_niewykorzystania": 5306.0,
+        "koszt_instruktorow": 7390.0,
+        "funkcja": 60994.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Skewed",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 476.29188203811646,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61224.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4075.0,
+        "koszt_niewykorzystania": 5426.0,
+        "koszt_instruktorow": 7400.0,
+        "funkcja": 61224.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Fast",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 413.9445071220398,
+      "success": true,
+      "error_message": null,
+      "objective_value": 63495.0,
+      "is_feasible": false,
+      "num_violations": 13,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.16666666666666666,
+        "instructor_utilization": 0.25,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 3500.0,
+        "koszt_niewykorzystania": 5600.0,
+        "koszt_instruktorow": 5530.0,
+        "funkcja": 63495.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Fast",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 1941.2185537815094,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61319.0,
+      "is_feasible": false,
+      "num_violations": 1,
+      "scheduled_courses": 29,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.19,
+        "instructor_utilization": 0.285,
+        "courses_scheduled": 0.9666666666666667
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4300.0,
+        "koszt_niewykorzystania": 5336.0,
+        "koszt_instruktorow": 7170.0,
+        "funkcja": 61319.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Fast",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 415.46065616607666,
+      "success": true,
+      "error_message": null,
+      "objective_value": 61572.0,
+      "is_feasible": true,
+      "num_violations": 0,
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.2,
+        "instructor_utilization": 0.3,
+        "courses_scheduled": 1.0
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 4005.0,
+        "koszt_niewykorzystania": 5478.0,
+        "koszt_instruktorow": 7070.0,
+        "funkcja": 61572.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Intensive",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 1,
+      "execution_time": 647.3405938148499,
+      "success": true,
+      "error_message": null,
+      "objective_value": 70721.0,
+      "is_feasible": false,
+      "num_violations": 24,
+      "scheduled_courses": 6,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.02,
+        "instructor_utilization": 0.03,
+        "courses_scheduled": 0.2
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 410.0,
+        "koszt_niewykorzystania": 6484.0,
+        "koszt_instruktorow": 510.0,
+        "funkcja": 70721.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Intensive",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 2,
+      "execution_time": 397.29347586631775,
+      "success": true,
+      "error_message": null,
+      "objective_value": 70800.0,
+      "is_feasible": false,
+      "num_violations": 25,
+      "scheduled_courses": 5,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.016666666666666666,
+        "instructor_utilization": 0.025,
+        "courses_scheduled": 0.16666666666666666
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 275.0,
+        "koszt_niewykorzystania": 6530.0,
+        "koszt_instruktorow": 520.0,
+        "funkcja": 70800.0
+      }
+    },
+    {
+      "instance_name": "large_01",
+      "instance_path": "/Users/kwiatleksy/PycharmProjects/praca_inz/data/instances/large/large_01",
+      "algorithm_name": "VNS_Intensive",
+      "algorithm_class": "VariableNeighborhoodSearch",
+      "run_id": 3,
+      "execution_time": 688.4621639251709,
+      "success": true,
+      "error_message": null,
+      "objective_value": 70474.0,
+      "is_feasible": false,
+      "num_violations": 22,
+      "scheduled_courses": 8,
+      "total_courses": 30,
+      "utilization": {
+        "room_utilization": 0.02666666666666667,
+        "instructor_utilization": 0.04,
+        "courses_scheduled": 0.26666666666666666
+      },
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 395.0,
+        "koszt_niewykorzystania": 6506.0,
+        "koszt_instruktorow": 750.0,
+        "funkcja": 70474.0
+      }
+    }
+  ],
+  "statistics": {
+    "best_objective": 70800.0,
+    "worst_objective": 60808.0,
+    "average_objective": 63114.2,
+    "feasible_solutions": 67,
+    "average_execution_time": 392.3302039252387,
+    "best_solution": {
+      "algorithm": "VNS_Intensive",
+      "instance": "large_01",
+      "objective_value": 70800.0,
+      "is_feasible": false,
+      "execution_time": 59.715792179107666,
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 275.0,
+        "koszt_niewykorzystania": 6530.0,
+        "koszt_instruktorow": 520.0,
+        "funkcja": 70800.0
+      },
+      "scheduled_courses": 5,
+      "total_courses": 30
+    },
+      "best_feasible_solution": {
+      "algorithm": "Greedy_ExpensiveTest",
+      "instance": "large_01",
+      "objective_value": 63693.0,
+      "is_feasible": true,
+      "execution_time": 0.35936903953552246,
+      "detailed_breakdown": {
+        "zysk": 78125.0,
+        "koszt_uzytkowania": 2720.0,
+        "koszt_niewykorzystania": 5992.0,
+        "koszt_instruktorow": 5720.0,
+        "funkcja": 63693.0
+      },
+      "scheduled_courses": 30,
+      "total_courses": 30,
+      "gap_to_best_overall": 7107.0
+    }
+  }
+}
