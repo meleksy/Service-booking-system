@@ -1,0 +1,6 @@
+course_id,name,duration,price_per_participant,max_participants
+1,Course_1,2,50,10
+2,Course_2,3,60,20
+3,Course_3,1,55,15
+4,Course_4,1,70,25
+5,Course_5,3,50,10
