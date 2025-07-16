@@ -1,7 +1,5 @@
 # Service-booking-system
 
-# Course Scheduling Optimization System
-
 ## About The Project
 This repository contains an implementation of various optimization algorithms for solving the Course Scheduling Problem. The system includes multiple algorithms, database management, and a GUI interface for easy interaction with the optimization system.
 
